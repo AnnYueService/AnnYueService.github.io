@@ -4113,6 +4113,11 @@ textarea {
     width: 90%;
     z-index: 1;
 }
+.test {
+    display: inline-block;
+    height: auto;
+    max-width: 85%;
+}
 
 .part1-bg-2 {
     position: absolute;
@@ -4964,7 +4969,7 @@ textarea {
     position: relative;
 }
 
-.p4_a_bar {
+.p4_asoul_bar {
     height: 130%;
     width: 100%;
 }
@@ -4983,7 +4988,7 @@ textarea {
     z-index: 95;
 }
 
-.p4_a_bar_vert {
+.p4_asoul_bar_vert {
     height: 100%;
     width: 14rem;
     position: absolute;
@@ -5001,7 +5006,7 @@ textarea {
     }
 
     /* Hide vertical bar at this breakpoint */
-    .p4_a_bar_vert {
+    .p4_asoul_bar_vert {
         visibility: hidden;
     }
 }
